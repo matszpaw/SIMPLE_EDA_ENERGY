@@ -1,0 +1,9 @@
+ENERGIA
+
+1.add pkp/capita
+2.add storytelling
+3.add rolling averages
+
+easy--> https://www.kaggle.com/datasets/ccanb23/iea-monthly-electricity-statistics
+
+later ---> https://data.open-power-system-data.org/
